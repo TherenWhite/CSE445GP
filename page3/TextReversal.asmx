@@ -1,0 +1,1 @@
+<%@ WebService Class="TextReversal" Language="C#" CodeBehind="~/App_Code/TextReversal.asmx.cs" %>
